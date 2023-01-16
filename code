@@ -1,0 +1,6 @@
+#include <stdio.h>
+main()
+{
+printf("I’m Sergey Sudin, and I’m not a monkey");
+getchar();
+}
